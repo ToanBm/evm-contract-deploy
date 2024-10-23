@@ -90,13 +90,13 @@ deploy_contract() {
 
     mkdir -p "$SCRIPT_DIR/src"
 
-    cat <<EOL > "$SCRIPT_DIR/src/ToanBm.sol"
+    cat <<EOL > "$SCRIPT_DIR/src/ToanBM.sol"
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
-contract ZunXBT is ERC20 {
+contract ToanBM is ERC20 {
     constructor() ERC20("$TOKEN_NAME", "$TOKEN_SYMBOL") {
         _mint(msg.sender, 100000 * (10 ** decimals()));
     }
