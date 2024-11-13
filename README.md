@@ -21,7 +21,7 @@ chmod +x deploy.sh && ./deploy.sh
   - Chainbase: `https://testnet.s.chainbase.com`
   - Ink: `https://rpc-qnd-sepolia.inkonchain.com`
   - Spheron: `https://spheron-devnet-eth.rpc.caldera.xyz/http`
-  - ROME: `https://romeevm.devnet.romeprotocol.xyz`
+  - ROME Testnet: `https://rome.testnet.romeprotocol.xyz`
   - Fhenix: `https://api.helium.fhenix.zone`
   - Fluent: `https://rpc.dev.thefluent.xyz/`
   
