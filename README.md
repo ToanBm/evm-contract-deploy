@@ -16,12 +16,35 @@ chmod +x deploy.sh && ./deploy.sh
   3) Deploy contract(s)
   - Number of contracts you want to create
 ### 3. Network rpc url:
-  - Minato: `https://rpc.minato.soneium.org`
-  - Unichain: `https://sepolia.unichain.org`
-  - Chainbase: `https://testnet.s.chainbase.com`
-  - Ink: `https://rpc-qnd-sepolia.inkonchain.com`
-  - Spheron: `https://spheron-devnet-eth.rpc.caldera.xyz/http`
-  - ROME Testnet: `https://rome.testnet.romeprotocol.xyz`
-  - Fhenix: `https://api.helium.fhenix.zone`
-  - Fluent: `https://rpc.dev.thefluent.xyz/`
-  
+  - Unichain:
+    ```Bash
+    https://sepolia.unichain.org
+    ```
+  - Minato:
+    ```Bash
+    https://rpc.minato.soneium.org
+    ```
+  - Chainbase:
+    ```Bash
+    https://testnet.s.chainbase.com
+    ```
+  - Ink:
+    ```Bash
+    https://rpc-qnd-sepolia.inkonchain.com
+    ```
+  - ROME Testnet:
+    ```Bash
+    https://rome.testnet.romeprotocol.xyz
+    ```
+  - Fhenix Nitrogen:
+    ```Bash
+    https://api.nitrogen.fhenix.zone
+    ```
+  - Fluent:
+    ```Bash
+    https://rpc.dev.thefluent.xyz/
+    ```
+    - Spheron:
+    ```Bash
+    https://spheron-devnet-eth.rpc.caldera.xyz/http
+    ```
