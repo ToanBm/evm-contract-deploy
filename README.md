@@ -40,11 +40,11 @@ chmod +x deploy.sh && ./deploy.sh
     ```Bash
     https://api.nitrogen.fhenix.zone
     ```
-  - Fluent:
+  - Fluent: Not Working!!!
     ```Bash
     https://rpc.dev.thefluent.xyz/
     ```
-    - Spheron:
+  - Spheron:
     ```Bash
     https://spheron-devnet-eth.rpc.caldera.xyz/http
     ```
